@@ -6,4 +6,4 @@ An implementation of the Levenshtein algorithm in Go. Provides edit distances fo
 Installation
 ------------
 
-    $ go get github.com/rohitsubedi/levenshtein
+    $ go get github.com/rohitsubedi/levenshtein@v1.0.0
